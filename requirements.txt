@@ -1,0 +1,12 @@
+google-generativeai
+langchain
+langchain-core
+gradio
+python-dotenv
+uuid
+json
+datetime
+collections
+re
+logging
+typing
